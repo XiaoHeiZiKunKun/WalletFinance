@@ -1,0 +1,22 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "Web site of my portfolio",
+  "main": "next.config.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build", 
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoHeiZiKunKun/MyPortfolio.git"
+  },
+  "type": "module",
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
